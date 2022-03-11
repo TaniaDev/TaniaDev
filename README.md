@@ -3,7 +3,6 @@
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
     🎂 I'm 23 years <br/>
     📚 I'm a Software Analysis and Development student at Fatec Ipiranga <br/>
-    🔨 I'm working at ABnet Logistics Systems <br/>
     💻 I'm currently learning UX & UI, ReactJS, NodeJS with Express and .NET Framework <br/>
     🩺 I'm developing a Web Platform for Telehealth, using ReactJS (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and NodeJS (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work <br/>
     🎻 I like to play ukulele and make some art sketches 🎨 <br/>
