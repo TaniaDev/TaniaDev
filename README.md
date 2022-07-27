@@ -2,7 +2,7 @@
 <div>
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
     🎂 I'm 23 years <br/>
-    📚 I studied Software Analysis and Development at Fatec Ipiranga and I'm currently learning Python, ElasticSearch, Docker and QA<br/>
+    📚 I earned my degree in System Analysis and Development at Fatec Ipiranga and I'm currently learning Python, ElasticSearch, Docker and QA<br/>
     💻 I'm working as a Hyperautomation Assistant at Prime Control company<br/>
     🩺 I developed a Web Platform for Telehealth, using ReactJS (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and NodeJS (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work <br/>
     🎻 I like to play ukulele and make some art sketches 🎨 <br/>
