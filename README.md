@@ -1,4 +1,4 @@
-<img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/157590957-fec39c23-4e13-4285-ab05-584be50342d2.png" />
+<img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/191844524-96a2e485-558b-433a-86cc-b829265526ce.png" />
 <div>
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
     🎂 I'm 23 years <br/>
