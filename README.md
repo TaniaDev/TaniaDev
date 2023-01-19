@@ -1,4 +1,4 @@
-<img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/191844524-96a2e485-558b-433a-86cc-b829265526ce.png" />
+<img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/213347677-e235fb1a-5b40-4c49-86f6-d5c7fbc8e72d.png" />
 <div>
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
     🎂 I'm 24 years <br/>
@@ -34,8 +34,6 @@
   <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
   
-
-
 
 ## 
 
