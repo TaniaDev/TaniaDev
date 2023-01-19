@@ -1,11 +1,11 @@
 <img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/191844524-96a2e485-558b-433a-86cc-b829265526ce.png" />
 <div>
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
-    🎂 I'm 23 years <br/>
+    🎂 I'm 24 years <br/>
     📚 I earned my degree in System Analysis and Development at Fatec Ipiranga and I'm currently learning Python, ElasticSearch, Docker and QA<br/>
     💻 I'm working as a Hyperautomation Assistant at Prime Control company<br/>
     🩺 I developed a Web Platform for Telehealth, using ReactJS (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and NodeJS (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work <br/>
-    🎻 I like to play ukulele and make some art sketches 🎨 <br/>
+    🩰 I like to dance ballet and to play ukulele 🎻<br/>
 </div>
 
 ##
