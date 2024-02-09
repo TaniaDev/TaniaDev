@@ -1,11 +1,11 @@
-<img align="right" height="160em" src="https://user-images.githubusercontent.com/60274024/213347677-e235fb1a-5b40-4c49-86f6-d5c7fbc8e72d.png" />
+<img align="right" height="160em" src="https://github.com/TaniaDev/TaniaDev/assets/60274024/781fbc83-3186-4343-9f14-4a11164397c8" />
 <div>
 <h2>Hi, I'm Tânia de Arruda! 👋</h2>
-    🎂 I'm 24 years <br/>
-    📚 I earned my degree in System Analysis and Development at Fatec Ipiranga and I'm currently studying to become a Data Engineer<br/>
+    🎂 I'm 25 years <br/>
+    📚 I earned my degree in System Analysis and Development at Fatec Ipiranga<br/>
     💻 I'm working as a Hyperautomation Assistant at Prime Control company<br/>
     🩺 I developed a Web Platform for Telehealth, using ReactJS (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and NodeJS (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work <br/>
-    🩰 I like to dance ballet and to play ukulele 🎻<br/>
+    🎻 I like to play ukulele <br/>
 </div>
 
 ##
@@ -39,7 +39,7 @@
 
 <div align="center">
   <h3>Contact me 🌺</h3>
-  <a href="mailto:tandearruda@gmail.com"/><img height="24px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:develop.tania@gmail.com"/><img height="24px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/taniadev/"/><img height="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
