@@ -1,12 +1,12 @@
 <div>
-    <img height="160em" src="https://github.com/TaniaDev/TaniaDev/assets/60274024/781fbc83-3186-4343-9f14-4a11164397c8" />
     <div>
         <h2>Hi, I'm Tânia de Arruda! 👋</h2>
-        🎂 I'm 26 years <br/>
-        📚 I earned my degree in System Analysis and Development at Fatec Ipiranga<br/>
-        💻 I'm working as a Junior Developer at Prime Control company<br/>
-        🩺 I developed a Web Platform for Telehealth, using ReactJS (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and NodeJS (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work <br/>
-        🎻 I like to play ukulele <br/>
+        🎂 I'm 26 years<br/>
+        🎓 I earned my degree in System Analysis and Development at Fatec Ipiranga<br/>
+        📚 I'm currently pursuing an MBA in Software Engineering at Universidade Tecnológica Federal do Paraná<br/>
+        💻 I'm working as a Developer at Prime Control company<br/>
+        🩺 I developed a Web Platform for Telehealth, using React.js (<a href="https://github.com/TaniaDev/telemedicina-frontend">Front-End</a>) and Node.js (<a href="https://github.com/TaniaDev/telemedicina-backend">Back-End</a>), for Graduate Work<br/>
+        🎸 My favorite Rush album right now is Hemispheres<br/>
     </div>
 </div>
 
@@ -22,12 +22,12 @@
 <br/>
 
 <div align="center">
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ## 
